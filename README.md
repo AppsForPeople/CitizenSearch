@@ -1,4 +1,4 @@
-CitizenSearch
+Citizen Search
 =============
 
 Crowdsourced Citizen Search Mapping Tool
